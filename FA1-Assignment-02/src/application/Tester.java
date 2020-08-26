@@ -2,7 +2,7 @@ package application;
 
 public class Tester {
 	public static void main(String[] args) {
-		// Code here
+		// Code here and push it to git
 		
 		CourseRegistration c1 = new CourseRegistration();
 		c1.setStudentName("Peter");
